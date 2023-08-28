@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>landing_controller</name>
+  <version>0.0.0</version>
+  <description>The controller package</description>
+
+  <maintainer email="francesco.roscia@iit.it">froscia</maintainer>
+
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+
+</package>

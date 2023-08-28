@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<package format="2">
+
+  <name>go1_description</name>
+  <version>0.0.1</version>
+  <description>Go1 Description Package</description>
+
+  <license>BSD-3</license>
+
+  <author email="francesco.roscia@iit.it">Francesco Roscia</author>
+  <maintainer email="francesco.roscia@iit.it">Francesco Roscia</maintainer>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>

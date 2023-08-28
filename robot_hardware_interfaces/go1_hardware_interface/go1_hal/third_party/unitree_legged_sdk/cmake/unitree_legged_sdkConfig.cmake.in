@@ -1,0 +1,10 @@
+set(UNITREESDK_VERSION @VERSION@)
+
+@PACKAGE_INIT@
+
+find_package(unitree_legged_sdk)
+
+set_and_check(UNITREESDK_INCLUDE_DIR "@PACKAGE_INCLUDE_INSTALL_DIR@")
+set_and_check(UNITREESDK_LIBRARY_DIR "@PACKAGE_LIBRARY_INSTALL_DIR@")
+
+include("${CMAKE_CURRENT_LIST_DIR}/go1halTargets.cmake")
