@@ -2,6 +2,7 @@
 
 Francesco Roscia, Michele Focchi, Andrea Del Prete, Darwin G. Caldwell, and Claudio Semini
 
+Corresponding author's email: francesco.roscia@iit.it
 
 <p align="center">
     <img src="./media/ex_square.png" alt="drawing" height="280"/> <img src="./media/example2.GIF" alt="drawing" height="280"/>
