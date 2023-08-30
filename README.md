@@ -26,7 +26,7 @@ It has been designed for satisfying the following requirements:
 It uses only proprioceptive measures for torque-controlled quadruped robots, without requiring prior knowledge of either
 the distance to the landing surface or the flight time.
 
-Check out our Youtube [video](https://www.youtube.com/watch?v=KnmNbhkOKWI).
+Check out our Youtube [video](https://youtu.be/wiuedeHfSEY).
 
 <p align="center">
 <img src="./media/video_front.gif" alt="drawing" width="30%"/> <img src="./media/video_back.gif" alt="drawing" width="30%"/> <img src="./media/video_left.gif" alt="drawing" width="30%"/>
